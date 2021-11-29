@@ -4,3 +4,5 @@ Criação do Repositório para o desafio.
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+Obs: add . -> commit -> push
